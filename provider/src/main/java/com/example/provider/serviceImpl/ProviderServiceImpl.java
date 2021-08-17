@@ -14,6 +14,7 @@ public class ProviderServiceImpl implements ProviderService {
 
     public String sayHello2Consumer(String s) {
         System.out.println("provider s : "+ s);
+
         return null;
     }
 }
