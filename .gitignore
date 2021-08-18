@@ -2,6 +2,7 @@
 target/
 logs/
 .idea/
+.idea/workspace.xml
 .git/
 *.project
 *.classpath

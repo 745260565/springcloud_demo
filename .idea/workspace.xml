@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83411879-18aa-4e12-96cb-640caba28732" name="默认更改列表" comment="" />
+    <list default="true" id="83411879-18aa-4e12-96cb-640caba28732" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/provider/src/main/java/com/example/provider/serviceImpl/ProviderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider/src/main/java/com/example/provider/serviceImpl/ProviderServiceImpl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1628237469229</updated>
       <workItem from="1628237470973" duration="5993000" />
-      <workItem from="1629167845415" duration="4005000" />
+      <workItem from="1629167845415" duration="4621000" />
     </task>
     <servers />
   </component>
