@@ -12,9 +12,9 @@ import org.springframework.stereotype.Service;
 @Service
 public class ProviderServiceImpl implements ProviderService {
 
+    @Override
     public String sayHello2Consumer(String s) {
         System.out.println("provider s : "+ s);
-
         return null;
     }
 }
